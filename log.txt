@@ -1,5 +1,1 @@
-hotfix
-develop 1
-use fetch, then merge
-a commit
-commit 2
+develop commit 1

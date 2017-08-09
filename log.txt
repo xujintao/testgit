@@ -1,1 +1,1 @@
-use git rebase
+use fetch, then merge
